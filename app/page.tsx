@@ -458,7 +458,7 @@ export default function Home() {
       <div className="max-w-md mx-auto mt-40">
         <div className="bg-white/10 backdrop-blur-lg rounded-2xl shadow-xl p-6">
           <h1 className="text-3xl font-bold text-white mb-8 text-center">
-            熠辉Todo
+            饮冰Todo
           </h1>
 
           <form onSubmit={addTodo} className="mb-6">
